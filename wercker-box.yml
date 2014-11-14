@@ -11,7 +11,7 @@ script: |
     cd $HOME
 
     # Install Dart SDK
-    wget "http://storage.googleapis.com/dart-archive/channels/stable/release/latest/sdk/dartsdk-linux-x64-release.zip"
+    wget "http://storage.googleapis.com/dart-archive/channels/stable/release/30188/sdk/dartsdk-linux-x64-release.zip"
     unzip "dartsdk-linux-x64-release.zip"
     rm "dartsdk-linux-x64-release.zip"
     
