@@ -1,7 +1,7 @@
 box-dart
 ========
 
-[![wercker status](https://app.wercker.com/status/f96d712f8efe2c6e9ee586ff4661a06d/m "wercker status")](https://app.wercker.com/project/bykey/f96d712f8efe2c6e9ee586ff4661a06d)
+[![wercker status](https://app.wercker.com/status/a26dde4ce4fd6ac91e3451f419ed78df/m/master "wercker status")](https://app.wercker.com/project/bykey/a26dde4ce4fd6ac91e3451f419ed78df)
 
 A box designed to run build, test and deployment for Dart projects. It runs Dart version 0.8.1.2_r28355 which installed in `$HOME/DART_SDK`. This path is available via `DART_SDK` and included in the `PATH`:
 
