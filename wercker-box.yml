@@ -1,5 +1,5 @@
 name: dart
-version: 1.18.0
+version: 1.18.1
 inherits: wercker/ubuntu12.04-webessentials@0.0.11
 type: main
 platform: ubuntu@12.04
@@ -11,7 +11,7 @@ script: |
     cd $HOME
 
     # Install Dart SDK
-    wget "http://storage.googleapis.com/dart-archive/channels/stable/release/1.18.0/sdk/dartsdk-linux-x64-release.zip"
+    wget "http://storage.googleapis.com/dart-archive/channels/stable/release/1.18.1/sdk/dartsdk-linux-x64-release.zip"
     unzip "dartsdk-linux-x64-release.zip"
     rm "dartsdk-linux-x64-release.zip"
     
